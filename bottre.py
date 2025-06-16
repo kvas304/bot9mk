@@ -10,8 +10,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Константы
-TOKEN = '7574305031:AAEQmjY48RcSXZiw_816Ks3FDyvdzNlbqVA'
-TRENER_ID = '5249628824'  
+TOKEN = 'TOKEN'
+TRENER_ID = 'id'  
 
 # Создаем экземпляр бота
 bot = telebot.TeleBot(TOKEN)
